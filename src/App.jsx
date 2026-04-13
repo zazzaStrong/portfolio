@@ -372,7 +372,7 @@ export default function App() {
             transition: "all 1s cubic-bezier(0.16,1,0.3,1)",
           }}>
             <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: 12, color: "#22c55e", opacity: 0.5, marginBottom: 32, letterSpacing: "0.1em" }}>{"// contact"}</div>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" style={{
+            <a href="https://www.linkedin.com/in/umberto-pizzuti-2a7ab83aa" target="_blank" rel="noopener noreferrer" style={{
               display: "inline-flex", alignItems: "center", gap: 14,
               padding: "18px 40px", borderRadius: 8, textDecoration: "none",
               background: "transparent", border: "1px solid rgba(0,212,255,0.2)",
